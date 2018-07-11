@@ -1,0 +1,7 @@
+{
+  "name": "showtimes",
+  "author": "Sivakar Sithamparanathan <sivakar12@outlook.com>",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
