@@ -1,35 +1,29 @@
 const puppeteer = require('puppeteer');
+const moment = require('moment')
 
-async function getTheatreList(page) {
-    const theatre_list_select = await page.$('#filter_theater')
-    list = await page.$$eval('#filter_theater option', nodes => nodes.map(node => node.innerText))
-    return list
-}
-
-async function openCalendar(page) {
-    const calendar_button = await page.$('span.input-group-addon')
-    await calendar_button.click()
-
-    await page.waitForSelector('.table-condensed')
-}
-
-async function getToday(page) {
-    await openCalendar(page)
-    today = await page.$eval('.today.day', node => node.innerText)
-    return today
-}
-
-async function getDatesOnCalendar(page) {
-    await openCalendar(page)
-    const dates = await page.$$eval('.day', nodes => nodes.map(node => node.innerText))
+function getNextDays(n) {
+    const dates = []
+    for (let i = 0; i < n; i++) {
+        let date = moment().add(i, 'days').format('YYYY-MM-DD')
+        dates.push(date)
+    }
     return dates
 }
+async function getTheatreList(page) {
+    // const theatre_list_select = await page.$('#filter_theater')
+    const names = await page.$$eval('#filter_theater option', nodes => nodes.map(node => ({
+        theaterName: node.innerText,
+        index: node.getAttribute('value')
+    })))
+    return names
+}
 
-async function clickDateOnCalendar(page, date) {
-    await openCalendar(page)
-    const dateElement = await page.$$eval('.day', nodes => nodes.filter(node => node.innerText == 7))
-    console.log(dateElement)
-    await dateElement[0].click()
+async function getShowtimesList(page) {
+    const showtimesList = await page.$$eval('#filter_showtime option', nodes => nodes.map(node => ({
+        showTime: node.innerText,
+        index: node.getAttribute('value')
+    })))
+    return showtimesList
 }
 
 (async () => {
@@ -42,8 +36,26 @@ async function clickDateOnCalendar(page, date) {
         const page = await browser.newPage()
         await page.goto('https://www.eapmovies.com/component/eapmovies/?controller=ratesandshowtime')
     
-        // await console.log(await getDatesOnCalendar(page))
-        await clickDateOnCalendar(page, 25)
+        const dates = getNextDays(3)
+        for (date of dates) {
+            // let dateField = await page.$('#filter_date')
+            await page.evaluate((date) => {
+                document.querySelector('#filter_date').value = date
+            }, date)
+            await page.waitFor(1000)
+            const theaters = await getTheatreList(page)
+            for (theater of theaters) {
+                await page.select('#filter_theater', theater.index)
+                await page.waitFor(1000)
+                const showTimes = await getShowtimesList(page)
+                for (showTime of showTimes) {
+                    await page.select('#filter_showtime', showTime.index)
+                    await page.waitFor(1000)
+                }
+            }
+        }
+
+        await page.waitFor(5000)
     } catch (e) {
         console.error(e)
     } finally {
