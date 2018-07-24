@@ -1,9 +1,17 @@
 const puppeteer = require('puppeteer');
 
 async function isNextButtonActive(page) {
-    nextButton = await page.$('#nextBtn')
-    return await nextButton.eval('a', a => a.disabled)
+    let nextButton = await page.$('#nextBtn')
+    let property = await nextButton.$eval('a', anchor => anchor.getAttribute('class'))
+    return property != 'disabled'
 }
+
+async function getThreatreNames(page) {
+    const theatreNames = await page.$$eval('.theater_title', theatres => 
+        theatres.map(t => t.innerText))
+    return theatreNames
+}
+        
 (async function() {
     let browser
     try {
@@ -14,11 +22,17 @@ async function isNextButtonActive(page) {
         const page = await browser.newPage()
         await page.goto('http://www.ticketslk.com')
 
-        const nextButton = page.$('#nextBtn')
-        const theatreNames = await page.$$eval('.theater_title', theatres => 
-            theatres.map(t => t.innerText))
         
-        console.log(theatreNames)
+        let theaterDetails = []
+        theaterDetails = await getThreatreNames(page)
+        while (await isNextButtonActive(page)) {
+            nextButton = await page.$('#nextBtn a')
+            await page.waitFor(2000)
+            await nextButton.click()
+            theaterDetails = theaterDetails.concat(await getThreatreNames(page))
+        }
+        await page.waitFor(5000)
+        console.log(theaterDetails)
     } catch (e) {
         console.error(e)
     } finally {
