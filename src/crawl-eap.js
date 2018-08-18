@@ -35,7 +35,9 @@ async function getShowtimesList(page) {
         })
         const page = await browser.newPage()
         await page.goto('https://www.eapmovies.com/component/eapmovies/?controller=ratesandshowtime')
-    
+        
+        data = []
+
         const dates = getNextDays(3)
         for (date of dates) {
             // let dateField = await page.$('#filter_date')
@@ -51,10 +53,18 @@ async function getShowtimesList(page) {
                 for (showTime of showTimes) {
                     await page.select('#filter_showtime', showTime.index)
                     await page.waitFor(1000)
+                    const movie = await page.$eval('#movie', i => i.value)
+                        data.push({
+                            movie,
+                            showTime: showTime.showTime,
+                            theater: theater.theater,
+                            date
+                        })
+                        console.log(data.length + ' items collected')
                 }
             }
         }
-
+        console.log(data)
         await page.waitFor(5000)
     } catch (e) {
         console.error(e)
