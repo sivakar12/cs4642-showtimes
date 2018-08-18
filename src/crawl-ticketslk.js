@@ -12,11 +12,12 @@ async function getTheaterDetails(page) {
     await tip.hover()
     theatres = await Promise.all(movies.map(async movie => {
         const theater = await movie.$eval('.theater_title', t => t.innerText)
-        // const title = await movie.$eval('.tooltip_title', t => t.innerText)
         const desc = await movie.$eval('.tooltip_description', t => t.innerText)
+        const titleRaw = await movie.$eval('.tooltip_description', t => t.title)
         const timeRegex = /\d\d\.\d\d[A|P]M/g
         const times = desc.match(timeRegex)
-        return { theater: theater, times }
+        const title = titleRaw.match(/.*>(.+)\s<.*/)[1]
+        return { theater: theater, times, title }
     }))
 
     return theatres
