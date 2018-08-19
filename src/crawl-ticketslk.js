@@ -19,7 +19,7 @@ async function getTheaterDetails(page) {
         const timeRegex = /\d\d\.\d\d[A|P]M/g
         const times = desc.match(timeRegex)
         const title = titleRaw.match(/.*>(.+)\s<.*/)[1]
-        return { theater: theater, times, title }
+        return { theater: theater, times, movie: title }
     }))
 
     return theatres

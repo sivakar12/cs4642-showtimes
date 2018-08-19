@@ -55,11 +55,14 @@ async function getShowtimesList(page) {
                 for (showTime of showTimes) {
                     if (showTime.showTime == 'Select Show Time') continue
                     await page.select('#filter_showtime', showTime.index)
-                    await page.waitForFunction("document.getElementById('movie').value.length > 0")
+                    // await page.waitForFunction("document.getElementById('movie').value.length > 0")
+                    await page.waitFor(1000)
+                    while ((await page.$eval('#movie', i => i.value)) == '')
+                        await page.waitFor(1000)
                     const movie = await page.$eval('#movie', i => i.value)
                         data.push({
                             movie,
-                            showTime: showTime.showTime,
+                            time: showTime.showTime,
                             theater: theater.theaterName,
                             date
                         })
