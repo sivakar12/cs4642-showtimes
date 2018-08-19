@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const _ = require('lodash');
 
 async function isNextButtonActive(page) {
     let nextButton = await page.$('#nextBtn')
@@ -22,7 +23,12 @@ async function getTheaterDetails(page) {
 
     return theatres
 }
-        
+    
+function splitByTime(record) {
+    const common = _.omit(record, 'times')
+    return record.times.map(time => _.assign({}, {time: time}, common))
+}
+
 (async function() {
     let browser
     try {
@@ -46,6 +52,9 @@ async function getTheaterDetails(page) {
         }
         await page.waitFor(5000)
         console.log(theaterDetails)
+
+        const finalData = _.flatten(theaterDetails.map(splitByTime))
+        console.log(finalData)
     } catch (e) {
         console.error(e)
     } finally {
