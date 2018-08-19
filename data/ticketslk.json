@@ -2,491 +2,525 @@
   {
     "time": "10.30AM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "07.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00AM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Amity Lite",
-    "movie": "Garasarapa - ඝරසරප"
+    "movie": "Garasarapa - ඝරසරප",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
+  },
+  {
+    "time": "09.30PM",
+    "theater": "Liberty Lite",
+    "movie": "Gold",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "07.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00AM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Amity Lite",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Garasarapa - ඝරසරප"
+    "movie": "Garasarapa - ඝරසරප",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
   },
   {
     "time": "09.30PM",
     "theater": "Liberty Lite",
-    "movie": "Gold"
+    "movie": "Gold",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Liberty Lite",
-    "movie": "Satyameva Jayate"
+    "movie": "Satyameva Jayate",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "09.30PM",
     "theater": "Ruoo Cinema Katunayake",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "380",
+      "255",
+      "1060"
+    ]
   },
   {
     "time": "02.30PM",
     "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "550"
+    ]
   },
   {
     "time": "06.30PM",
     "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "550"
+    ]
+  },
+  {
+    "time": "04.15PM",
+    "theater": "Sky Lite - Matara",
+    "movie": "Yashodhara යශෝධරා",
+    "prices": [
+      "270",
+      "195",
+      "760"
+    ]
+  },
+  {
+    "time": "07.00PM",
+    "theater": "Liberty Lite",
+    "movie": "Garasarapa - ඝරසරප",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
+  },
+  {
+    "time": "04.15PM",
+    "theater": "Liberty Lite",
+    "movie": "Christopher Robin",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "07.15PM",
     "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
+    "movie": "Mamma Mia Here We Go Again",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "10.00AM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "01.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
+    "movie": "Hotel Transylvania 3: Summer Vacation",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Amity Lite",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Garasarapa - ඝරසරප"
+    "movie": "Garasarapa - ඝරසරප",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
   },
   {
     "time": "09.30PM",
     "theater": "Liberty Lite",
-    "movie": "Gold"
+    "movie": "Gold",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Liberty Lite",
-    "movie": "Satyameva Jayate"
+    "movie": "Satyameva Jayate",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "09.30PM",
     "theater": "Ruoo Cinema Katunayake",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "380",
+      "255",
+      "1060"
+    ]
   },
   {
     "time": "02.30PM",
     "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "550"
+    ]
   },
   {
     "time": "06.30PM",
     "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Sky Lite - Matara",
-    "movie": "Kolamavu Kokila"
+    "movie": "Kolamavu Kokila",
+    "prices": [
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Sky Lite - Matara",
-    "movie": "Yashodhara යශෝධරා"
-  },
-  {
-    "time": "02.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
+    "movie": "Yashodhara යශෝධරා",
+    "prices": [
+      "270",
+      "195",
+      "760"
+    ]
   },
   {
     "time": "07.00PM",
     "theater": "Liberty Lite",
-    "movie": "Garasarapa - ඝරසරප"
+    "movie": "Garasarapa - ඝරසරප",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Liberty Lite",
-    "movie": "Christopher Robin"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Eros Cinema",
-    "movie": "Pyaar Prema Kaadhal"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
-  },
-  {
-    "time": "04.15PM",
-    "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
-  },
-  {
-    "time": "10.15PM",
-    "theater": "Liberty Screen 1",
-    "movie": "Mission: Impossible - Fallout"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
-  },
-  {
-    "time": "07.15PM",
-    "theater": "Liberty Screen 1",
-    "movie": "Mamma Mia Here We Go Again"
-  },
-  {
-    "time": "04.00PM",
-    "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
-  },
-  {
-    "time": "10.00PM",
-    "theater": "Liberty Screen 2",
-    "movie": "Mamma Mia Here We Go Again"
-  },
-  {
-    "time": "10.00AM",
-    "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
-  },
-  {
-    "time": "01.00PM",
-    "theater": "Liberty Screen 2",
-    "movie": "Hotel Transylvania 3: Summer Vacation"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Goal"
-  },
-  {
-    "time": "04.15PM",
-    "theater": "Amity Lite",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "01.30PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Liberty Lite",
-    "movie": "Gold"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Liberty Lite",
-    "movie": "Satyameva Jayate"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Ruoo Cinema Katunayake",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "02.30PM",
-    "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Ruby Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Sky Lite - Matara",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "04.15PM",
-    "theater": "Sky Lite - Matara",
-    "movie": "Yashodhara යශෝධරා"
-  },
-  {
-    "time": "02.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "06.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "09.30PM",
-    "theater": "Eros Cinema",
-    "movie": "Kolamavu Kokila"
-  },
-  {
-    "time": "07.00PM",
-    "theater": "Liberty Lite",
-    "movie": "Garasarapa - ඝරසරප"
-  },
-  {
-    "time": "04.15PM",
-    "theater": "Liberty Lite",
-    "movie": "Christopher Robin"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Eros Cinema",
-    "movie": "Pyaar Prema Kaadhal"
+    "movie": "Christopher Robin",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Amity Lite",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Amity Lite",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
   },
   {
     "time": "07.00PM",
     "theater": "Amity Lite",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "325",
+      "220",
+      "865"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Liberty Lite",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "440",
+      "270",
+      "1080"
+    ]
   },
   {
     "time": "07.00PM",
     "theater": "Liberty Screen 2",
-    "movie": "Mission: Impossible - Fallout"
-  },
-  {
-    "time": "10.30AM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Goal"
-  },
-  {
-    "time": "04.15PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Goal"
-  },
-  {
-    "time": "07.00PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Goal"
-  },
-  {
-    "time": "09.00PM",
-    "theater": "Vista Lite-Ja Ela",
-    "movie": "Goal"
+    "movie": "Mission: Impossible - Fallout",
+    "prices": [
+      "650",
+      "550"
+    ]
   },
   {
     "time": "04.15PM",
     "theater": "Ruoo Cinema Katunayake",
-    "movie": "Jurassic World: Fallen Kingdom (2018)"
+    "movie": "Jurassic World: Fallen Kingdom (2018)",
+    "prices": [
+      "380",
+      "255",
+      "1060"
+    ]
   },
   {
     "time": "10.30AM",
     "theater": "Sky Lite - Matara",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "270",
+      "195",
+      "760"
+    ]
   },
   {
     "time": "01.30PM",
     "theater": "Sky Lite - Matara",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "270",
+      "195",
+      "760"
+    ]
   },
   {
     "time": "07.00PM",
     "theater": "Sky Lite - Matara",
-    "movie": "Goal"
+    "movie": "Goal",
+    "prices": [
+      "270",
+      "195",
+      "760"
+    ]
   }
 ]

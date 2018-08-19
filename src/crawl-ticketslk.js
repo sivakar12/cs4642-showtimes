@@ -19,7 +19,9 @@ async function getTheaterDetails(page) {
         const timeRegex = /\d\d\.\d\d[A|P]M/g
         const times = desc.match(timeRegex)
         const title = titleRaw.match(/.*>(.+)\s<.*/)[1]
-        return { theater: theater, times, movie: title }
+        const pricesRegex = /\d{3,4}/g
+        const prices = desc.match(pricesRegex)
+        return { theater: theater, times, movie: title, prices }
     }))
 
     return theatres
