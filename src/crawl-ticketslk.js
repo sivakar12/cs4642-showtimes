@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const moment = require('moment');
 const _ = require('lodash');
 const writeJson = require('write-json');
 
@@ -6,6 +7,13 @@ async function isNextButtonActive(page) {
     let nextButton = await page.$('#nextBtn')
     let property = await nextButton.$eval('a', anchor => anchor.getAttribute('class'))
     return property != 'disabled'
+}
+
+function mapTime(timeString) {
+    let date = moment().format('YYYY-MM-DD') + ' ' + timeString 
+    // date = moment(date)
+    date = moment(date, 'YYYY-MM-DD hh.mmA')
+    return date.format()
 }
 
 async function getTheaterDetails(page) {
@@ -21,7 +29,7 @@ async function getTheaterDetails(page) {
         const title = titleRaw.match(/.*>(.+)\s<.*/)[1]
         const pricesRegex = /\d{3,4}/g
         const prices = desc.match(pricesRegex)
-        return { theater: theater, times, movie: title, prices }
+        return { theater: theater, times: times.map(mapTime), movie: title, prices }
     }))
 
     return theatres

@@ -1,998 +1,797 @@
 [
   {
-    "movie": "Hotel Transylvania 3",
-    "time": "10:00 AM",
+    "time": "2018-08-20T10:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Hotel Transylvania 3",
-    "time": "12:00 PM",
+    "time": "2018-08-20T12:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Incredibles 2",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Incredibles 2"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Mulk",
-    "time": "9:30 PM",
-    "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Jurassic World Fallen Kingdom",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Jurassic World Fallen Kingdom"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "10:00 PM",
-    "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Gold",
-    "time": "10:00 AM",
+    "time": "2018-08-20T10:00:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-19"
+    "movie": "Gold"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "1:15 PM",
+    "time": "2018-08-20T13:15:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-19"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "4:30 PM",
+    "time": "2018-08-20T16:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-19"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-20T19:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-19"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "10:30 PM",
-    "theater": "Concord - Dehiwala",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-20T16:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-19"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-19"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-19"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "10:00 PM",
-    "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-20T16:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "9:30 PM",
-    "theater": "Queens 3D - Galle",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Gharasarapa",
-    "time": "10:00 AM",
+    "time": "2018-08-20T10:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:15 PM",
+    "time": "2018-08-20T13:15:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-20T16:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-20T16:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-19"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-19"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-20T19:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-19"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "10:30 PM",
-    "theater": "Samantha - Dematagoda",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-20T10:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-20T13:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-20T16:15:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-20T19:00:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-19"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "10:00 PM",
-    "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-19"
-  },
-  {
-    "movie": "Hotel Transylvania 3",
-    "time": "10:00 AM",
+    "time": "2018-08-21T10:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Hotel Transylvania 3",
-    "time": "12:00 PM",
+    "time": "2018-08-21T12:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Incredibles 2",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Incredibles 2"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Jurassic World Fallen Kingdom",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Jurassic World Fallen Kingdom"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gold",
-    "time": "10:00 AM",
+    "time": "2018-08-21T10:00:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-20"
+    "movie": "Gold"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "1:15 PM",
+    "time": "2018-08-21T13:15:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-20"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "4:30 PM",
+    "time": "2018-08-21T16:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-20"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-21T19:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-20"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-21T16:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-20"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-20"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-20"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-21T16:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:00 AM",
+    "time": "2018-08-21T10:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:15 PM",
+    "time": "2018-08-21T13:15:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-21T16:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-21T16:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-20"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-20"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-21T19:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-20"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-21T10:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-21T13:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-21T16:15:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-21T19:00:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-20"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Hotel Transylvania 3",
-    "time": "10:00 AM",
+    "time": "2018-08-22T10:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Hotel Transylvania 3",
-    "time": "12:00 PM",
+    "time": "2018-08-22T12:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Hotel Transylvania 3"
   },
   {
-    "movie": "Incredibles 2",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Incredibles 2"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Mamma Mia Here We Go Again",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Savoy 2 - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Mamma Mia Here We Go Again"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Jurassic World Fallen Kingdom",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Jurassic World Fallen Kingdom"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Savoy 3D - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gold",
-    "time": "10:00 AM",
+    "time": "2018-08-22T10:00:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-21"
+    "movie": "Gold"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "1:15 PM",
+    "time": "2018-08-22T13:15:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-21"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "4:30 PM",
+    "time": "2018-08-22T16:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-21"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-22T19:30:00+05:30",
     "theater": "Concord - Dehiwala",
-    "date": "2018-08-21"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Cinemax 3D - Jaela",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-22T16:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Willmax 3D - Anuradhapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-21"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Christopher Robin",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-21"
+    "movie": "Christopher Robin"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Excel 3D - Colombo 10",
-    "date": "2018-08-21"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-22T16:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Queens 3D - Galle",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:00 AM",
+    "time": "2018-08-22T10:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:15 PM",
+    "time": "2018-08-22T13:15:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-22T16:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Jothi 3D - Rathnapura",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Mission Impossible Fallout",
-    "time": "4:00 PM",
+    "time": "2018-08-22T16:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-21"
+    "movie": "Mission Impossible Fallout"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Sinexpo 3D - Kurunegala",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Vishwaroopam 2",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-21"
+    "movie": "Vishwaroopam 2"
   },
   {
-    "movie": "Kolamavu Kokila",
-    "time": "7:30 PM",
+    "time": "2018-08-22T19:30:00+05:30",
     "theater": "Samantha - Dematagoda",
-    "date": "2018-08-21"
+    "movie": "Kolamavu Kokila"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Regal - Ambalangoda",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Tower - Moratuwa",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "10:30 AM",
+    "time": "2018-08-22T10:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "1:30 PM",
+    "time": "2018-08-22T13:30:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "4:15 PM",
+    "time": "2018-08-22T16:15:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   },
   {
-    "movie": "Gharasarapa",
-    "time": "7:00 PM",
+    "time": "2018-08-22T19:00:00+05:30",
     "theater": "Savoy Premiere (Roxy Cinema) - Wellawatte",
-    "date": "2018-08-21"
+    "movie": "Gharasarapa"
   }
 ]

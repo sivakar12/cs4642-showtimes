@@ -27,6 +27,12 @@ async function getShowtimesList(page) {
     return showtimesList
 }
 
+function mapTime(date, time) {
+    date = date + ' ' + time
+    date = moment(date, 'YYYY-MM-DD hh:mm A')
+    return date.format()
+}
+
 (async () => {
     let browser
     try {
@@ -60,13 +66,15 @@ async function getShowtimesList(page) {
                     while ((await page.$eval('#movie', i => i.value)) == '')
                         await page.waitFor(1000)
                     const movie = await page.$eval('#movie', i => i.value)
-                        data.push({
-                            movie,
-                            time: showTime.showTime,
-                            theater: theater.theaterName,
-                            date
-                        })
-                        console.log(data.length + ' items collected')
+                    const time = mapTime(date, showTime.showTime)
+                    data.push({
+                        time,
+                        // time: showTime.showTime,
+                        theater: theater.theaterName,
+                        movie,
+                        // date
+                    })
+                    console.log(data.length + ' items collected')
                 }
             }
         }
