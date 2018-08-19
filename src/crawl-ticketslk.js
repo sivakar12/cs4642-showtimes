@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const _ = require('lodash');
+const writeJson = require('write-json');
 
 async function isNextButtonActive(page) {
     let nextButton = await page.$('#nextBtn')
@@ -51,10 +52,12 @@ function splitByTime(record) {
             theaterDetails = theaterDetails.concat(await getTheaterDetails(page))
         }
         await page.waitFor(5000)
-        console.log(theaterDetails)
+        // console.log(theaterDetails)
 
         const finalData = _.flatten(theaterDetails.map(splitByTime))
-        console.log(finalData)
+        // console.log(finalData)
+        console.log(finalData.length + ' records collected!')
+        await writeJson('data/ticketslk.json', finalData)
     } catch (e) {
         console.error(e)
     } finally {

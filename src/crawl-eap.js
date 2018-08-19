@@ -1,5 +1,6 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer')
 const moment = require('moment')
+const writeJson = require('write-json')
 
 function getNextDays(n) {
     const dates = []
@@ -47,25 +48,28 @@ async function getShowtimesList(page) {
             await page.waitFor(1000)
             const theaters = await getTheatreList(page)
             for (theater of theaters) {
+                if (theater.theaterName == 'Select Theater') continue
                 await page.select('#filter_theater', theater.index)
                 await page.waitFor(1000)
                 const showTimes = await getShowtimesList(page)
                 for (showTime of showTimes) {
+                    if (showTime.showTime == 'Select Show Time') continue
                     await page.select('#filter_showtime', showTime.index)
-                    await page.waitFor(1000)
+                    await page.waitForFunction("document.getElementById('movie').value.length > 0")
                     const movie = await page.$eval('#movie', i => i.value)
                         data.push({
                             movie,
                             showTime: showTime.showTime,
-                            theater: theater.theater,
+                            theater: theater.theaterName,
                             date
                         })
                         console.log(data.length + ' items collected')
                 }
             }
         }
-        console.log(data)
         await page.waitFor(5000)
+        console.log(data)
+        writeJson('data/eap.json', data)
     } catch (e) {
         console.error(e)
     } finally {
