@@ -38,14 +38,14 @@ function mapTime(date, time) {
     try {
         browser = await puppeteer.launch({ 
             executablePath: '/usr/bin/google-chrome',
-            headless: false
+            headless: true
         })
         const page = await browser.newPage()
         await page.goto('https://www.eapmovies.com/component/eapmovies/?controller=ratesandshowtime')
         
         data = []
 
-        const dates = getNextDays(3)
+        const dates = getNextDays(1)
         for (date of dates) {
             // let dateField = await page.$('#filter_date')
             await page.evaluate((date) => {

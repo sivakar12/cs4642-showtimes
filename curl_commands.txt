@@ -1,0 +1,21 @@
+curl -X POST -H 'Content-type:application/json' --data-binary '{ "add-field": { "name": "prices", "type": "pfloat", "multiValued": true, "stored": true, "indexed": true } }' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{ "add-field": { "name": "time", "type": "pdate", "stored": true, "indexed": true } }' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{ "add-field": { "name": "theater", "type": "text_general", "stored": true, "indexed": true } }' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{ "add-field": { "name": "city", "type": "text_general", "stored": true, "indexed": true } }' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+  "add-copy-field":{
+     "source":"theater",
+     "dest":[ "city" ]}
+}' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+  "add-copy-field":{
+     "source":"*",
+     "dest":[ "_text_" ]}
+}' http://localhost:8983/solr/showtimes/schema
+
+curl -X POST -H 'Content-type:text/xml' --data-binary '<delete><query>*:*</query></delete>' http://localhost:8983/solr/showtimes/update
